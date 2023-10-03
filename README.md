@@ -1,1 +1,1 @@
-[LinkedIn](https://www.linkedin.com/in/alexandriathylane/)<!-- {"preview":"true"} -->
+- [LinkedIn](https://www.linkedin.com/in/alexandriathylane/)
