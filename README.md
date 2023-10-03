@@ -1,1 +1,2 @@
 - [LinkedIn](https://www.linkedin.com/in/alexandriathylane/)
+- [Philosophy notes](https://www.alexandriathylane.com/philosophy)
