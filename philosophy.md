@@ -2,6 +2,8 @@
 ## Introduction
 This writing gives a simplified, section-by-section summary of *Chapter. V. Of Property*. from Locke’s *Second Treatise of Government*. The summary is designed for both newcomers and those who would like a quick refresher. You may skip to the summary but first this introduction will provide useful context.
 
+Free, full text here: [The Project Gutenberg eBook of Second Treatise Of Government, by John Locke](https://www.gutenberg.org/files/7370/7370-h/7370-h.htm)
+
 John Locke (1632-1704) was an English philosopher and revolutionary who was an influential supporter of the Glorious Revolution wherein King James II was overthrown. His *Second Treatise of Civil Government* (published 1698) details Locke’s political philosophy for legitimate governance and a civil society rooted in natural rights and social contract theory. This was a rebuttal to monarchists, in particular Thomas Hobbes. Hobbes claimed that life in a state of nature was brutish, short, and a constant state of war and so advocated for rule by an absolute sovereign.
 
 Locke asserts that life in a state of nature was a state of perfect freedom and equality where people have natural rights to life, liberty, health, and property. Locke’s *Second Treatise on Government* has become a foundational text in Liberalism and has shaped Western governance and individual rights. *Chapter. V. Of Property* focuses on property rights and has had major influence on the development of capitalism and private ownership.
@@ -15,8 +17,6 @@ While Locke’s political philosophy was revolutionary and liberatory for its ti
 
 ### Main Thesis
 In chapter five, Locke argues that people come to acquire property rights by “mixing their labour” with natural resources because people in a state of nature would starve if they required the consent of everyone. Locke includes two provisos: First, that “there is enough, and as good, left in common for others.” And second, that the person uses the resource before it spoils.
-
-Free, full text here: [The Project Gutenberg eBook of Second Treatise Of Government, by John Locke](https://www.gutenberg.org/files/7370/7370-h/7370-h.htm)
 
 ## Summary: *Chapter. V. Of Property.*
 
