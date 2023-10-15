@@ -5,8 +5,4 @@ header_pages:
   - README.md
   - philosophy-notes.md
 
-minima:
-  social_links:
-    linkedin: alexandriathylane
-
 linkedin_username: alexandriathylane
