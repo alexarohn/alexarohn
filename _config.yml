@@ -1,8 +1,6 @@
 theme: minima
 title: Alexandria Thylane Rohn
 
-menu:
-  - title: "Home"
-    url: "/"
-  - title: "Philosophy Notes"
-    url: "/philosophy"
+header_pages:
+  - README.md
+  - philosophy-notes.md
