@@ -3,6 +3,15 @@
 #### [Locke on property](https://alexandriathylane.com/philosophy/john-locke-on-property.html)
 A simplified, section-by-section summary of *Chapter. V. Of Property*. from Locke’s *Second Treatise of Government*.
 
+Locke argues that people come to acquire property rights by “mixing their labour” with natural resources.
+
+Locke includes two provisos: First, that “there is enough, and as good, left in common for others.” And second, that the person uses the resource before it spoils.
+
+Locke’s _Second Treatise on Government_ has become a foundational text in liberalism and has shaped Western governance and individual rights. 
+
+_Chapter. V. Of Property_ focuses on property rights and has had major influence on the development of capitalism and private ownership.
+
+
 
 #### [Freedom and Money by G.A. Cohen](https://alexandriathylane.com/philosophy/freedom-and-money-ga-cohen.html)
 A simplified, section-by-section summary of *Freedom and Money* by political philosopher Gerald Allen Cohen.
