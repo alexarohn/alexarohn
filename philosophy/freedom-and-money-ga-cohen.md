@@ -1,3 +1,5 @@
+*Freedom and Money* by G. A. Cohen
+
 ## Brief Bio
 
 Gerald Allan Cohen (1941 - 2009), was a Canadian political philosopher known for his work on Marxism, and later, egalitarianism and distributive justice. He was born in Montreal, Quebec into a working class, communist Jewish family. He studied at McGill University (BA in philosophy and political science) and later at the University of Oxford  (Phil in philosophy). Cohen held prestigious positions including the Quain Professor of Jurisprudence at University College London and the Chichele Professor of Social and Political Theory at All Souls College, Oxford. Cohen was renowned for applying the analytic tradition to Marxism, his 1978 work *Karl Marx's Theory of History: A Defence* was seminal in bringing about Analytic Marxism, or as Cohen called it, Non-Bullshit Marxism.” As his views evolved, he later focused more on egalitarianism and distributive justice. [1][1], [2][2]
