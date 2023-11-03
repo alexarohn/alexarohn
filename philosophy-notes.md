@@ -11,7 +11,7 @@ Locke’s _Second Treatise on Government_ has become a foundational text in libe
 
 _Chapter. V. Of Property_ focuses on property rights and has had major influence on the development of capitalism and private ownership.
 
-
+___
 
 #### [Freedom and Money by G.A. Cohen](https://alexandriathylane.com/philosophy/freedom-and-money-ga-cohen.html)
 A simplified, section-by-section summary of *Freedom and Money* by political philosopher Gerald Allen Cohen.
