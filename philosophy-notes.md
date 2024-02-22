@@ -1,5 +1,13 @@
 # Philosophy Notes
 
+#### [Justin Garson on the incoherence of innate biological traits, and proposing the robust-plastic continuum](https://alexandriathylane.com/philosophy/justin-garson-nature-and-nurture.html)
+
+In chapter 4, _Nature and Nurture_, of Justin Garson's _The Biological Mind: A Philosophical Introduction_, Garson takes the nature/nurture debate head on.
+
+Put briefly, Garson argues that the biological concept of "innateness" is confused, bordering on meaningless. Garson proposes that we instead distinguish traits along a robust/plastic continuum.
+
+---
+
 #### [Locke on property](https://alexandriathylane.com/philosophy/john-locke-on-property.html)
 A simplified, section-by-section summary of *Chapter. V. Of Property*. from Locke’s *Second Treatise of Government*.
 
