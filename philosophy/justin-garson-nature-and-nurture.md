@@ -1,8 +1,8 @@
 # Justin Garson on the incoherence of innate biological traits, and proposing the robust-plastic continuum
 
-In chapter 4, *Nature and Nurture* of Justin Garson's *The Biological Mind: A Philosophical Introduction*, Garson takes the nature/nurture debate head on.
+In chapter 4, _Nature and Nurture_, of Justin Garson's _The Biological Mind: A Philosophical Introduction_, Garson takes the nature/nurture debate head on.
 
-To put it briefly, Garson argues that the biological concept of "innateness" is confused, bordering on meaningless. Instead, Garson proposes that we instead distinguish traits along a robust/plastic continuum.
+Put briefly, Garson argues that the biological concept of "innateness" is confused, bordering on meaningless. Garson proposes that we instead distinguish traits along a robust/plastic continuum.
 
 >In this chapter, I’ll tackle the idea of innateness. I agree with those biologists, philosophers, and psychologists who think the idea of innateness borders on meaninglessness, and that the distinction between innate and acquired is a bad way to think about development. Then, I’ll discuss ways that evolutionary approaches to the mind could get on just fine without the idea of innateness. Specifically, it would be more fruitful to make a distinction between traits that are relatively “robust,” and those that are relatively “plastic.” The distinction between robustness and plasticity captures an important phenomenon but does so without presupposing the idea of innateness.
 
