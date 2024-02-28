@@ -1,5 +1,10 @@
 # Philosophy Notes
 
+#### [Emma Goldman, Woman Suffrage](https://alexandriathylane.com/philosophy/emma-goldman-woman-suffrage.html)
+In _Woman Suffrage_ (published 1911), anarchist thinker and activist Emma Goldman (1869–1940), radically argues that women's suffrage is not a panacea for women's, and more broadly, society's, liberation. In fact, Goldman posits that it can sometimes serve as a distraction or even source of control.
+
+---
+
 #### [Justin Garson on the incoherence of innate biological traits, and proposing the robust-plastic continuum](https://alexandriathylane.com/philosophy/justin-garson-nature-and-nurture.html)
 
 In chapter 4, _Nature and Nurture_, of Justin Garson's _The Biological Mind: A Philosophical Introduction_, Garson takes the nature/nurture debate head on.
