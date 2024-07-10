@@ -1,4 +1,6 @@
 # Recommended Books
+A (very) incomplete list of recommended books. Please let me know if you'd like me to cover a specific topic.
+
 ## Productivity and Self-Help
 - [80,000 Hours: Find a fulfilling career that does good](https://www.goodreads.com/book/show/33229792-80-000-hours)
 - [Why Buddhism Is True: The Science and Philosophy of Meditation and Enlightenment](https://www.goodreads.com/book/show/32895535-why-buddhism-is-true)
