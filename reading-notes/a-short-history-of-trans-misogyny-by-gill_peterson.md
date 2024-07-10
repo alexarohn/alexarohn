@@ -8,9 +8,11 @@ The term “trans” is promoted by the Global North and meant to be inclusive a
 
 The word ”transgender” rose to popularity in the 1990s in two distinct but related births:
 >a largely white activist world in the San Francisco Bay Area, where people long involved in queer organizing began to rally around transgender as a nonmedical, avowedly political category for trespassing the enforced boundaries of gender.
+
 - Swaths of people in the United States who had previously traveled under disparate and even incompatible signs were suddenly lumped together under a single umbrella, including transvestites, drag queens, cross-dressers, street queens, hair fairies, butches, studs, bois, faggots, femmes, gender fluid and genderfuck people, and transsexuals.
 
 >But the far bigger shadow cast by transgender came through its second birth in the well-funded NGO industrial complex. There, transgender was institutionalized by social service organizations working in US cities and was swiftly adopted for parallel international development work across the global South.
+
 - Street girls and sex workers dismissed the transgender label. The term “gay” was one particular sticking point, with orgs wanting to separate gender and sexuality.
 
 >Transgender’s great accomplishment has thus been to disavow the very people it claims to urgently represent: poor women of color.”
