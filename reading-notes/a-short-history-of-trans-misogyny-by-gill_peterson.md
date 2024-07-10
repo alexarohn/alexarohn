@@ -1,3 +1,4 @@
+# Gill-Peterson, Jules, “A Short History of Trans Misogyny”
 # Introduction: Femmes against Trans
 The term “trans” is promoted by the Global North and meant to be inclusive and boundary-crossing but carries the risk of oversimplifying diverse identities.
 
