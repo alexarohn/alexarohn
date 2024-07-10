@@ -104,6 +104,7 @@ Nancy Kelly was a Black female impersonator working in the Chicago South Side dr
 Trans panic born in the 19th century was a phenomenon with a global reach, via both colonial state power and interpersonal street interactions.
 
 >Panic and trans-feminization produced similar experiences for vastly different kinds of people around the world who had little in common—other than being targets. The men who picked up fairies on the street, or who paid to see female impersonators dance in nightclubs, acted out the same structure of violence when they threatened, assaulted, or robbed them as the colonial state in India or the settler-colonial state in America. This was the same violence wielded by municipal police forces that raided bars and locked people up for cross-dressing. The blending of state violence with interpersonal violence is a signature outcome of the global trans panic, a deadly merger that persists to this day.
+
 ### Joseph Pemberton's murder of Filipino trans woman Jennifer Laude
 On October 11, 2014, US Marine Joseph Pemberton murdered Jennifer Laude, a Filipina transgender woman, in Olongapo, Philippines.
 
@@ -111,6 +112,7 @@ The US initially refused to give up Pemberton:
 >The 1998 Visiting Forces Agreement between the two countries, a central plank of American imperialism in a former colony, granted the US jurisdiction over lawbreaking servicepeople.
 
 Trans and anticolonial activists protested and demanded the end of US military presence and imperialism. In late November, a murder charge was formally filed and Pemberton was transferred to joint US-Philippine custody. In December, 2015, Pemberton, utilizing the trans panic defense and reducing the charge from murder to homicide, was sentenced to 6-12 years in prison. Tragically, in September of 2020, far-right Philippine President Rodrigo Duterte granted Pemberton a pardon.
+
 ### CeCe McDonald
 On June 5, 2011, CeCe McDonald, a Black transgender woman, and her friends were attacked by a group hurling transphobic and racist threats. One of them, Dean Schmitz, was wielding a broken beer bottle. McDonald defended herself with a pair of fabric scissors, resulting in Schmitz's death.
 
