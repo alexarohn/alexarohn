@@ -128,6 +128,7 @@ Laude’s and McDonald’s stories dramatize three key features of the subject o
 ### Closing 
 Trans-feminizing violence and trans misogyny are not limited to those who explicitly identify as trans women. Instead, this violence targets a broader range of individuals perceived as deviating from normative gender expectations, particularly those who appear feminine but are classified as male. This broader targeting suggests that the violence is less concerned with specific identities and more with policing and punishing gender nonconformity in general, especially as sanctioned by the state.
 
-• Trans misogyny and historical trans panic have forced trans women into informal economies like sex work, limiting their life opportunities.
-• Stereotypes and anti-sex-work feminism often misrepresent sex work among trans women as purely degrading, ignoring the nuanced, sometimes chosen nature of this work.
-• Ethnographic research shows that Black trans sex workers integrate sex work with other types of labor, situating it within broader economic strategies and reflecting similarities with non-trans Black women’s experiences.
+- Trans misogyny and historical trans panic have forced trans women into informal economies like sex work, limiting their life opportunities.
+- Stereotypes and anti-sex-work feminism often misrepresent sex work among trans women as purely degrading, ignoring the nuanced, sometimes chosen nature of this work.
+- Ethnographic research shows that Black trans sex workers integrate sex work with other types of labor, situating it within broader economic strategies and reflecting similarities with non-trans Black women’s experiences.
+
