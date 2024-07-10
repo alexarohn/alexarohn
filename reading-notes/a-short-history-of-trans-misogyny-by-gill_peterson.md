@@ -15,7 +15,7 @@ The word ”transgender” rose to popularity in the 1990s in two distinct but r
 
 - Street girls and sex workers dismissed the transgender label. The term “gay” was one particular sticking point, with orgs wanting to separate gender and sexuality.
 
->Transgender’s great accomplishment has thus been to disavow the very people it claims to urgently represent: poor women of color.”
+>Transgender’s great accomplishment has thus been to disavow the very people it claims to urgently represent: poor women of color.
 
 >A Short History of Trans Misogyny tells a story in four acts that valorizes the experience, genius, and desires of trans women and trans femininity in the face of misogyny, racism, poverty, and state violence.
 
@@ -38,8 +38,9 @@ This book investigates three of trans misogyny’s most enduring manifestations:
 >This book gives little space to trans-exclusionary feminism because it has had far less impact on trans women and trans-feminized people than colonialism, the policing of public space, the criminalization of sex work, and the betrayal of street queens.
 
 >It’s also untrue that American feminists, even lesbian feminists, were solidly anti-trans in the 1970s. Recent work by historians has cast doubt on how popular TERF beliefs ever were outside of a few loud agitators—
+
 # 1. The Global Trans Panic
-##### The targeting of South Asian Hijra for British statecraft
+### The targeting of South Asian Hijra for British statecraft
 The global trans panic had no single architect or origin, but traces of its emergence are archived during the 19th century in Northwestern Provinces of colonial India.
 
 In 1852, a hijra named Bhoorah was murdered, and her lover, Ali Buksh, was charged with the crime. The court, via Judge Unwin, declared Bhoorah had been a prostitute and alerted colonial officials to what he considered an immoral hijra underground and the Bhoorah's death as the tip of the iceberg of a "eunuch problem."
@@ -69,7 +70,8 @@ The CTA wasn't very successful as many hijras were able to evade its enforcement
 >Although the intervening history is too complex to reduce to any one cause, the British trans panic in the colonial era seems to have played a lasting role in sexualizing hijras and actually pushing them toward sex work by criminalizing their previous way of life. Thus, through the policing and economic disruption brought about by trans panic, what began as an accusation and a British fiction became the condition of many hijras.
 
 Hijras became targets for violence by men, namely police officers. Their sexualized femininity became the target for violent punishment in a way that would recur countless times around the world in a similar pattern.
-##### US targeting of Indigenous Badé (Two-Spirit people)
+
+### US targeting of Indigenous Badé (Two-Spirit people)
 In the 1870s in the US, federal agents began entering Indigenous communities confined on reservations to enforce laws banning practices the settler state considered threats to its sovereignty.
 
 Badé (sometimes spelled baté) is a Crow word for a respected social role that today might fall under the Two-Spirit category.
@@ -81,7 +83,8 @@ Two-Spirit people across the Americas, babaylan of the Phillippines, and mahu of
 >What was trans about the panic was not that the people being targeted themselves were inherently trans women, but that they were trans-feminized by the conflation of male femininity with immoral sodomy and sex work.
 
 >The fact that the state’s enforcers were policemen in each case is also important. After all, the global trans panic was not only about the general violence waged against populations now trans-feminized by the state; the panic also inaugurated the killability of trans women on an interpersonal scale. A new relationship between men and trans femininity was taking shape, leading to a world in which trans panic would eventually become the legal defense it remains today.
-##### American "fairies" & the working class: Jennie June, Loop the Loop, and Nancy Kelly
+
+### American "fairies" & the working class: Jennie June, Loop the Loop, and Nancy Kelly
 Jennie June (1874–?) was a self-identified "androgyne" who lived her life as a woman in the United States. She is notable for being one of the first people to write extensively about her experience as a trans feminine person, publishing _The Autobiography of an Androgyne_ in 1918 and _The Female-Impersonators_ in 1922.
 
 >By 1895, according to June, working-class men in New York knew what trans femininity looked like, and some of them actively desired girls like her precisely because they were trans. Trans femininity was not only publicly visible in certain neighborhoods; it was seen as different from generic womanhood.
@@ -96,21 +99,19 @@ Nancy Kelly was a Black female impersonator working in the Chicago South Side dr
 
 >For that kind of money, \[Kelly] was willing to risk the danger of working and going out in public dressed as a woman. For Kelly, femininity was a matter of economics, not the expression of an inner identity.
 
-![[nancy-kelly-drag-performer.png]]
-
 >The stories of these working-class fairies don’t clarify the difference between homosexuality and trans femininity. While Loop the Loop was more recognizably like a contemporary trans woman, Nancy Kelly was more like a gay man who only got up in drag for pay. According to the logic of trans panic, however, this difference was unimportant. What they had in common was an opportunity for a certain kind of life in the overcrowded, overpoliced working-class neighborhoods of New York City and Chicago. Trans femininity was not an expression of an inner gender identity but rather a mode of public appearance that paid, whether through sex work or dancing in a nightclub.
 
 Trans panic born in the 19th century was a phenomenon with a global reach, via both colonial state power and interpersonal street interactions.
 
 >Panic and trans-feminization produced similar experiences for vastly different kinds of people around the world who had little in common—other than being targets. The men who picked up fairies on the street, or who paid to see female impersonators dance in nightclubs, acted out the same structure of violence when they threatened, assaulted, or robbed them as the colonial state in India or the settler-colonial state in America. This was the same violence wielded by municipal police forces that raided bars and locked people up for cross-dressing. The blending of state violence with interpersonal violence is a signature outcome of the global trans panic, a deadly merger that persists to this day.
-##### Joseph Pemberton's murder of Filipino trans woman Jennifer Laude
+### Joseph Pemberton's murder of Filipino trans woman Jennifer Laude
 On October 11, 2014, US Marine Joseph Pemberton murdered Jennifer Laude, a Filipina transgender woman, in Olongapo, Philippines.
 
 The US initially refused to give up Pemberton:
 >The 1998 Visiting Forces Agreement between the two countries, a central plank of American imperialism in a former colony, granted the US jurisdiction over lawbreaking servicepeople.
 
 Trans and anticolonial activists protested and demanded the end of US military presence and imperialism. In late November, a murder charge was formally filed and Pemberton was transferred to joint US-Philippine custody. In December, 2015, Pemberton, utilizing the trans panic defense and reducing the charge from murder to homicide, was sentenced to 6-12 years in prison. Tragically, in September of 2020, far-right Philippine President Rodrigo Duterte granted Pemberton a pardon.
-##### CeCe McDonald
+### CeCe McDonald
 On June 5, 2011, CeCe McDonald, a Black transgender woman, and her friends were attacked by a group hurling transphobic and racist threats. One of them, Dean Schmitz, was wielding a broken beer bottle. McDonald defended herself with a pair of fabric scissors, resulting in Schmitz's death.
 
 McDonald was arrested and charged with second-degree murder, sparking outcry from LGBTQ+ and racial justice activists who argued that she acted in self-defense. In May 2012, she pleaded guilty to a reduced charge of second-degree manslaughter and served 19 months in prison.
@@ -121,11 +122,10 @@ Laude’s and McDonald’s stories dramatize three key features of the subject o
 1. Trans misogyny is part of an expression of a perceived killability of trans women and larger state-sponsored pattern of violence.
 2. Killers are often successful in claiming that the killing of trans women is rational.
 3. Trans misogynist violence is interpreted as a legitimate response to "trans panic."
-##### Closing 
+
+### Closing 
 Trans-feminizing violence and trans misogyny are not limited to those who explicitly identify as trans women. Instead, this violence targets a broader range of individuals perceived as deviating from normative gender expectations, particularly those who appear feminine but are classified as male. This broader targeting suggests that the violence is less concerned with specific identities and more with policing and punishing gender nonconformity in general, especially as sanctioned by the state.
 
 • Trans misogyny and historical trans panic have forced trans women into informal economies like sex work, limiting their life opportunities.
 • Stereotypes and anti-sex-work feminism often misrepresent sex work among trans women as purely degrading, ignoring the nuanced, sometimes chosen nature of this work.
 • Ethnographic research shows that Black trans sex workers integrate sex work with other types of labor, situating it within broader economic strategies and reflecting similarities with non-trans Black women’s experiences.
-# 2. Sex and the Antebellum City
-
